@@ -23,7 +23,10 @@
   "dependencies": {
     "ejs": "^2.5.2",
     "express": "^4.14.0",
+    "ip-address": "^5.8.2",
+    "mongoose": "^4.6.5",
     "morgan": "^1.7.0",
+    "request": "^2.76.0",
     "winston": "^2.2.0"
   }
 }
